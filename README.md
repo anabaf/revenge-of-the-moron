@@ -15,7 +15,7 @@ Take control of a lovable yet clueless hero seeking vengeance for who knows what
 
 ## Summary
 
-Revenge Of The Moron is a shooter-style game developed by Beatriz, David and Collin in just 11 days. This project was open-themed, and in our case we decided to follow a themed based on our bootcamp, showcasing our creativity and dedication to represent our peers and faculty. The game utilizes the SimpleGFX library and offers an engaging and entertaining experience.
+Revenge Of The Moron is a shooter-style game developed by [Beatriz](https://github.com/imbibs), [Colin](https://github.com/TheConiak) and David in just 11 days. This project was open-themed, and in our case we decided to follow a themed based on our bootcamp, showcasing our creativity and dedication to represent our peers and faculty. The game utilizes the SimpleGFX library and offers an engaging and entertaining experience.
 
 ## Gameplay
 
@@ -63,4 +63,8 @@ For any inquiries or support regarding Revenge Of The Moron, please contact [ana
 
 We hope you enjoy playing Clueless Hero as much as we enjoyed creating it. This game holds a special place in our hearts as our first game development project and as a milestone in our programming journey. Have fun and embrace the cluelessness of our hero!
 
+Our GitHubs:
+- [Beatriz](https://github.com/imbibs)
+- [Colin](https://github.com/TheConiak)
+- [David] 
 
