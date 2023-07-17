@@ -7,6 +7,7 @@ Take control of a lovable yet clueless hero seeking vengeance for who knows what
 * [Summary](#summary)
 * [Gameplay](#gameplay)
 * [Importance To Our Class](#importancetoourclass)
+* [Sound Design](#sounddesign)
 * [Key Features](#keyfeatures)
 * [Installation](#installation)
 * [Contributing](#contributing)
@@ -27,11 +28,16 @@ In Revenge Of The Moron, you navigate through a challenging world where you must
 
 ## Importance To Our Class <a name="importancetoourclass"></a>
 
-This game holds special significance for our class as it serves as a tribute to our collective journey. It represents our growth and learning throughout the course, making it an immersive and sentimental experience. Clueless Hero encapsulates the spirit and personality of our class, creating a unique and engaging atmosphere.
+This game holds special significance for our class as it serves as a tribute to our collective journey. It represents our growth and learning throughout the course, making it an immersive and sentimental experience. Revenge Of The Moron encapsulates the spirit and personality of our class, creating a unique and engaging atmosphere.
 
 The Enemies:
 
-The enemies you encounter in Clueless Hero are inspired by our amazing teachers and some of their most memorable moments and sayings. Each enemy represents a different teacher, bringing their distinct characteristics and humor to life in the game. Prepare to face off against hilarious adversaries as you progress through the levels and uncover their unique abilities.
+The enemies you encounter in Revenge Of The Moron are inspired by our amazing teachers and some of their most memorable moments and sayings. Each enemy represents a different teacher, bringing their distinct characteristics and humor to life in the game. Prepare to face off against hilarious adversaries as you progress through the levels and uncover their unique abilities.
+
+## Sound Design <a name="sounddesign"></a>
+
+We would like to extend our gratitude to the talented colleagues and faculty who contributed to the sounds in Revenge Of The Moron. Their participation brought life and personality to the game. We approached them with specific requests, and they graciously provided us with recordings that perfectly complement the gameplay. Their dedication and creativity added another layer of immersion and enjoyment to the overall experience.
+
 
 ## Key Features <a name="keyfeatures"></a>
 
@@ -61,7 +67,7 @@ Contributions to the Revenge Of The Moron project are not currently being accept
 
 For any inquiries or support regarding Revenge Of The Moron, please contact [ana.abrantes.fonseca@gmail.com].
 
-We hope you enjoy playing Clueless Hero as much as we enjoyed creating it. This game holds a special place in our hearts as our first game development project and as a milestone in our programming journey. Have fun and embrace the cluelessness of our hero!
+We hope you enjoy playing Revenge Of The Moron as much as we enjoyed creating it. This game holds a special place in our hearts as our first game development project and as a milestone in our programming journey. Have fun and embrace the cluelessness of our hero!
 
 Our GitHubs:
 - [Beatriz](https://github.com/imbibs)
