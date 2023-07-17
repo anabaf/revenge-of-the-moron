@@ -5,7 +5,7 @@ Take control of a lovable yet clueless hero seeking vengeance for who knows what
 
 ## Table of contents
 * [Summary](#summary)
-* [Gameplay](#Gameplay)
+* [Gameplay](#gameplay)
 * [Importance To Our Class](#importancetoourclass)
 * [Key Features](#keyfeatures)
 * [Installation](#installation)
@@ -25,7 +25,7 @@ In Revenge Of The Moron, you navigate through a challenging world where you must
 - Move - up/down arrows
 - Shoot - spacebar
 
-## Importance To Our Class
+## Importance To Our Class <a name="importancetoourclass"></a>
 
 This game holds special significance for our class as it serves as a tribute to our collective journey. It represents our growth and learning throughout the course, making it an immersive and sentimental experience. Clueless Hero encapsulates the spirit and personality of our class, creating a unique and engaging atmosphere.
 
@@ -33,7 +33,7 @@ The Enemies:
 
 The enemies you encounter in Clueless Hero are inspired by our amazing teachers and some of their most memorable moments and sayings. Each enemy represents a different teacher, bringing their distinct characteristics and humor to life in the game. Prepare to face off against hilarious adversaries as you progress through the levels and uncover their unique abilities.
 
-## Key Features
+## Key Features <a name="keyfeatures"></a>
 
 - Shooter-style gameplay: Engage in thrilling battles, dodging bullets and defeating enemies.
 - Unique game assets: Art assets and backgrounds were created by Beatriz, adding a personal touch and enhancing the game's visual appeal.
@@ -42,6 +42,8 @@ The enemies you encounter in Clueless Hero are inspired by our amazing teachers 
 - Team collaboration: Working in a team allowed for fruitful discussions, compromise, and strategizing to optimize efficiency and create the best possible game with the time given.
 
 ## Installation
+
+For an easier installation, go to this link - [https://coniak.itch.io/revenge-of-the-moron] - and download the file, after, follow the instructions bellow.
 
 Access through terminal:
 
