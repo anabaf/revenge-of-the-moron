@@ -1,4 +1,4 @@
-![image](https://github.com/imbibs/revenge-of-the-moron/assets/119486067/01b46ad8-90c1-4e11-8edb-09bc04e00abe)
+![image](https://github.com/imbibs/revenge-of-the-moron/assets/119486067/93320539-d6a9-45db-8874-4361d363c7de)
 
 # Revenge Of The Moron
 Take control of a lovable yet clueless hero seeking vengeance for who knows what. Prepare for epic battles, ridiculous encounters, and tons of laughter as you engage in this epic journey like no other. Unleash your inner moron and show those coders who's boss!
